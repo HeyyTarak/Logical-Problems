@@ -1,5 +1,5 @@
 print("If you want to print the series upto your required range enter 1 ")
-print("If you want to print the series upto your required number in the series enter 2 ",end=" ")
+print("If you want to print the series upto your required number in the series enter 2 ")
 ch=int(input())
 if (ch==1):
     n=int(input("Enter the number of series you want to see: "))
