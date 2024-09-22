@@ -12,7 +12,7 @@ Input: nums = [1, 2, 3, 4]
 
 Output: false
 
-Solution: """
+"""
 
 from typing import List
 class Solution:
